@@ -8,7 +8,7 @@ You need to have python installed, ive only tested this on Windows 11 so it shou
 
 I've only tested on python 3.13 so if you have a older or newer version it might not work (but I think it does unless its a big version difference).
 
-You can just run the calculator.pyw from the files or releases.
+You can just run the calculator.pyw from the files.
 
 ![dracula-calc](https://github.com/user-attachments/assets/9dbcf6f5-252e-4e95-8fdf-1547ff4d4b84)
 
